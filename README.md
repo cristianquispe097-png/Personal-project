@@ -14,4 +14,4 @@ Script para extraer coordenadas de palabras en documentos PDF y facilitar la edi
 **Generador_QR.py**
 Generador de códigos QR usando una API externa.
 
-**Instalación** con el comandopip install -r requirements.txt
+**Instalación** con el comando `pip install -r requirements.txt`
