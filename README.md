@@ -22,7 +22,7 @@ Generador de códigos QR usando una API externa.
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Libre para usar y modificar.
-
+Ver el archivo [LICENSE](LICENSE) para más detalles.
 ## Instalación  
 con el comando `pip install -r requirements.txt`
 
