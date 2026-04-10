@@ -27,6 +27,3 @@ Clona el repositorio:
 ```bash
 git clone https://github.com/tuusuario/cristianquispe097-png.git
 cd cristianquispe097-png
-```bash
-git clone https://github.com/tuusuario/cristianquispe097-png.git
-cd cristianquispe097-png
