@@ -1,0 +1,6 @@
+pandas
+matplotlib
+openpyxl
+pdfplumber
+qrcode
+requests
