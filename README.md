@@ -32,4 +32,12 @@ Clona el repositorio:
 git clone https://github.com/tuusuario/cristianquispe097-png.git
 cd cristianquispe097-png
 
+```
+
+## Contribución
+
+Este proyecto forma parte de mi portafolio inicial.  
+Comentarios, sugerencias o mejoras son bienvenidos.  
+Podés abrir un *issue* o enviar un *pull request*.
+
 
