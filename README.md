@@ -19,7 +19,11 @@ Script para extraer coordenadas de palabras en documentos PDF y facilitar la edi
 
 Generador de códigos QR usando una API externa.
 
-**Instalación**   
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Libre para usar y modificar.
+
+## Instalación  
 con el comando `pip install -r requirements.txt`
 
 Clona el repositorio:
@@ -27,3 +31,5 @@ Clona el repositorio:
 ```bash
 git clone https://github.com/tuusuario/cristianquispe097-png.git
 cd cristianquispe097-png
+
+
