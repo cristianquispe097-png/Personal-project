@@ -32,10 +32,10 @@ con el comando `pip install -r requirements.txt`
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/cristianquispe097-png.git
-cd cristianquispe097-png
-
+git clone https://github.com/cristianquispe097-png/Personal-project.git
+cd Personal-project
 ```
+
 
 ## Contribución
 
@@ -43,4 +43,7 @@ Este proyecto forma parte de mi portafolio inicial.
 Comentarios, sugerencias o mejoras son bienvenidos.  
 Podés abrir un *issue* o enviar un *pull request*.
 
-
+## Contacto
+📧 Mail:[Cristian_Quispe_mail](cristianquispe097@gmail.com)
+👨‍💼 Linkedin: [Cristian_Quispe](https://www.linkedin.com/in/cristian-e-quispe/)
+📱 Whatsaap: [Mi_Contacto](https://wa.me/5491137780214)
