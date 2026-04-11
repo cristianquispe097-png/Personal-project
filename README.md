@@ -29,7 +29,7 @@ con el comando `pip install -r requirements.txt`
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/cristianquispe097-png.git
+git clone https://github.com/cristianquispe097-png.git
 cd cristianquispe097-png
 
 ```
