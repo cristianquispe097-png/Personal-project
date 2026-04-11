@@ -1,21 +1,24 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## Proyecto de Herramientas en Python ##
 Este repositorio reúne distintos scripts en Python para análisis de datos, generación de documentos y utilidades prácticas.
 
+Como Licenciado en Administración, he desarrollado este repositorio para centralizar herramientas que optimizan procesos administrativos reales. Cada script nace de la necesidad de transformar tareas manuales en flujos automatizados, aplicando métricas financieras y validación dinámica de datos para mejorar la toma de decisiones
+
 ## Contenido
 
-**Analizador de Archivos Excel.py** 
+📁 **Analizador de Archivos Excel.py** 
 
 Script para analizar archivos Excel con validación dinámica de columnas, métricas financieras y exportación de reportes.
 
-**Analizador_Financiero.py**
+📊 **Analizador_Financiero.py**
 
 Herramienta para cálculos financieros básicos y generación de reportes.
 
-**Generador de PDFs**
+📑 **Generador de PDFs**
 
 Script para extraer coordenadas de palabras en documentos PDF y facilitar la edición o reconstrucción de bloques.
 
-**Generador_QR.py**
+📱 **Generador_QR.py**
 
 Generador de códigos QR usando una API externa.
 
